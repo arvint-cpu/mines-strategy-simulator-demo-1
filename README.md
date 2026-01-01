@@ -59,4 +59,4 @@ At the end:
 Make sure you have **Python 3** installed.
 
 ```bash
-python demo1.py
+python main.py
